@@ -26,5 +26,5 @@ I am a passionate Computer Science teacher and developer who loves transforming 
 
 ### 🤝 Connect With Me
 
-- 💼 [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/mustafa-engin-ko%C5%9Fucu-74a528147/?isSelfProfile=true)) *(Kendi profil linkini buraya ekleyebilirsin)*
+- 💼 [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/mustafa-engin-ko%C5%9Fucu-74a528147/?isSelfProfile=true)) 
 - ✉️ Reach out for collaborations or freelance projects!
